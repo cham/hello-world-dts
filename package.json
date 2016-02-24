@@ -1,0 +1,14 @@
+{
+  "name": "vizia-hello-world-dts",
+  "version": "1.0.0",
+  "description": "Hello World Bundle",
+  "main": "browser.js",
+  "scripts": {
+    "start": "http-server public -p 8082"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+      "http-server": "0.9.0"
+  }
+}
